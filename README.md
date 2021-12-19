@@ -2,7 +2,7 @@
 #### Estou estudando progamação e busco me aprofundar na área!
 - 🌱 Estudando HTML5 | CSS3 | JS
 - 👀 Busco estágio em empresas de Tecnologia 
-- <p>📚 Plataformas de estudo: <a href="https://www.theodinproject.com/" target="_blank"><img  height="30" width="25" src="https://www.theodinproject.com/assets/odin-logo-bd86cf893a3de1f1daceabc1377f58669776616a91ab70c601fd5c16a4686468.svg"></a><i>The Odin Project</i> e <a href="cursoemvideo.com" target="_blank"><img height="30" width="100" src="https://www.cursoemvideo.com/wp-content/uploads/2019/08/cursoemvideo-logo-branca.png" alt="cursoemvideo"></a></p>
+- <p>📚 Plataformas de estudo: <a href="https://www.theodinproject.com/" target="_blank"><img  height="30" width="25" src="https://www.theodinproject.com/assets/odin-logo-bd86cf893a3de1f1daceabc1377f58669776616a91ab70c601fd5c16a4686468.svg"></a><i>The Odin Project</i> e <a href="cursoemvideo.com" target="_blank"><img height="30" width="100" src="https://www.cursoemvideo.com/wp-content/uploads/2019/08/cursoemvideo-logo.png" alt="cursoemvideo"></a></p>
 
  <div>
   <a href="https://github.com/VituuD2">
