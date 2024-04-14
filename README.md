@@ -1,5 +1,5 @@
 ## Oi, Sou o João Vitor !
-#### Estudo progamção e busco me tornar um dev Front-end!
+#### Estudo programação e busco me tornar um dev Front-end!
 - 🌱 Estudando HTML5 | CSS3 | JS | React
 <!- - - 👀 Busco vaga em empresas de tecnologia */ -->
 - <p>📚 Plataformas de estudo: <a href="https://www.theodinproject.com/" target="_blank"><img  height="30" width="25" src="https://avatars.githubusercontent.com/u/4441966?s=280&v=4"![Uploading image.png…]()
